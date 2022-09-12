@@ -1,0 +1,173 @@
+@media (min-width:1199px) and (max-width:1200px){
+
+}
+
+@media (min-width:991px) and (max-width:1199px){
+    .features-content {
+        padding: 20px 30px 20px 30px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #hamburger-menu {
+        margin: 15px;
+    }
+    .navbar {
+        background-color: #212428;
+        padding: 0;
+    }
+    .navbar-expand-lg .navbar-nav {
+        background-color: #212428;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 13px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+        display: none;
+    }
+    .left-content h3 {
+        padding-top: 0px;
+
+    }
+    .socila-right span.subtitle {
+        margin-top: 30px;
+    }
+    .features-header span {
+        padding-top: 0px;
+    }
+}
+@media (min-width:576px) and (max-width:767px) {
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #hamburger-menu {
+        margin: 15px;
+    }
+    .navbar {
+        background-color: #212428;
+        padding: 0;
+    }
+    .navbar-expand-lg .navbar-nav {
+        background-color: #212428;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 13px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+        display: none;
+    }
+    .left-content h1 {
+        font-size: 48px;
+    }
+        .left-content span {
+            font-size: 34px;
+        }
+        .socila-right span.subtitle {
+            margin-top: 30px;
+        }
+        .features-header span {
+            font-size: 24px;
+            padding-top: 0px;
+        }
+        .skill-head h4 {
+            font-size: 20px;;
+        }
+        .features-header h3 {
+            font-size: 16px;
+        }
+        .left-content h3 {
+            padding-top: 0px;
+        }
+}
+@media (max-width:575.99px) {
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #hamburger-menu {
+        margin: 15px;
+    }
+    .navbar {
+        background-color: #212428;
+        padding: 0;
+    }
+    .navbar-expand-lg .navbar-nav {
+        background-color: #212428;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 13px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+        display: none;
+    }
+    .navbar-brand h3 {
+        font-size: 25px;
+    }
+    .left-content h1 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .left-content span {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .socila-right span.subtitle {
+        margin-bottom: 22px;
+        margin-top: 24px;
+    }
+    .right-button a span {
+        font-size: 14px;
+    }
+    .about-text p {
+        margin-top: 44px;
+    }
+    .left-content h3 {
+        padding-top: 0px;
+    }
+    .features-header span {
+        font-size: 24px;
+        padding-top: 0px;
+    }
+    .work-img li img {
+        padding: 0px;
+        height: 38px;
+    }
+    .features-header h3 {
+        font-size: 18px;
+    }
+    .features-content {
+        padding: 20px 30px 20px 30px;
+    }
+    .skill-head h4 {
+        font-size: 18px;
+    }
+    .features-header h3 {
+        font-size: 14px;
+    }
+    .copyroght-head p a {
+        font-size: 14px;
+    }
+}
